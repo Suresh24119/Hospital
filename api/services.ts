@@ -1,4 +1,4 @@
-import httpRequest from './httpRequest'
+import httpRequest from './httpRequest.js'
 
 /**
  * Get all medical services

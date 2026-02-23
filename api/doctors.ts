@@ -1,4 +1,4 @@
-import axios from './httpRequest'
+import axios from './httpRequest.js'
 
 // Get all doctors
 export const getDoctors = (params?: any) => {

@@ -1,4 +1,4 @@
-import axios from './httpRequest'
+import axios from './httpRequest.js'
 
 // Create appointment
 export const createAppointment = (data: any) => {

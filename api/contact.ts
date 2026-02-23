@@ -1,4 +1,4 @@
-import axios from './httpRequest'
+import axios from './httpRequest.js'
 
 // Submit contact form
 export const createContactMessage = (data: any) => {
